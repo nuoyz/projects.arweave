@@ -116,6 +116,12 @@ div {
     margin-right: 5px;
 }
 
+.projects-sub .collapse {
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
 .projects-sub .collapse li {
     margin: 0;
     padding: 0px;

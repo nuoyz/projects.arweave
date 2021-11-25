@@ -29,7 +29,7 @@ function Item(props) {
                     {props.tag}
                 </span>
             </td>
-            <td class="px-6 py-4 text-left whitespace-nowrap text-sm text-gray-500">
+            <td class="desc overflow-clip overflow-hidden ... px-6 py-4 text-left whitespace-nowrap text-sm text-gray-500">
                 {props.desc}
             </td>
         </tr>
