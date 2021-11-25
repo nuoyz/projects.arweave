@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/projects.arweave/static/css/main.25446c38.chunk.css",
-    "main.js": "/projects.arweave/static/js/main.7cde2fae.chunk.js",
-    "main.js.map": "/projects.arweave/static/js/main.7cde2fae.chunk.js.map",
+    "main.css": "/projects.arweave/static/css/main.cafdbfdc.chunk.css",
+    "main.js": "/projects.arweave/static/js/main.7982dee1.chunk.js",
+    "main.js.map": "/projects.arweave/static/js/main.7982dee1.chunk.js.map",
     "runtime-main.js": "/projects.arweave/static/js/runtime-main.92a11ce7.js",
     "runtime-main.js.map": "/projects.arweave/static/js/runtime-main.92a11ce7.js.map",
     "static/js/2.71e5f0ec.chunk.js": "/projects.arweave/static/js/2.71e5f0ec.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b76d6b4c.chunk.js": "/projects.arweave/static/js/3.b76d6b4c.chunk.js",
     "static/js/3.b76d6b4c.chunk.js.map": "/projects.arweave/static/js/3.b76d6b4c.chunk.js.map",
     "index.html": "/projects.arweave/index.html",
-    "static/css/main.25446c38.chunk.css.map": "/projects.arweave/static/css/main.25446c38.chunk.css.map",
+    "static/css/main.cafdbfdc.chunk.css.map": "/projects.arweave/static/css/main.cafdbfdc.chunk.css.map",
     "static/js/2.71e5f0ec.chunk.js.LICENSE.txt": "/projects.arweave/static/js/2.71e5f0ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.92a11ce7.js",
     "static/js/2.71e5f0ec.chunk.js",
-    "static/css/main.25446c38.chunk.css",
-    "static/js/main.7cde2fae.chunk.js"
+    "static/css/main.cafdbfdc.chunk.css",
+    "static/js/main.7982dee1.chunk.js"
   ]
 }
