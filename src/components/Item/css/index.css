@@ -1,0 +1,12 @@
+.link-list {
+    display: flex;
+    align-items: center;
+}
+
+.link-list a {
+    margin-right: 4px;
+    width: 18px;
+    height: 18px;
+    list-style: none;
+    text-decoration: none;
+}
